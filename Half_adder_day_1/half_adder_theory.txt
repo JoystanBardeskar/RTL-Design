@@ -1,0 +1,15 @@
+Half Adder
+
+1. The Combinational circuit that performs the addition of two bits is called half adder. ( The name is so because two half adders are required to implement a full adder)
+
+2. A half adder circuit has two binary inputs and two binary outputs (Sum, Carry)
+
+3. It is an arithmetic circuit used to perform the arithmetic operation of addition of two single bit.
+
+4. The Outputs of half adder for different set of inputs is shown below.
+
+	#0  a=x,b=x,sum=x,carry=x
+        #5  a=0,b=0,sum=0,carry=0
+        #10 a=0,b=1,sum=1,carry=0
+        #15 a=1,b=0,sum=1,carry=0
+        #20 a=1,b=1,sum=0,carry=1
